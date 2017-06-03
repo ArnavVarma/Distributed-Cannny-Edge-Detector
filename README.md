@@ -1,5 +1,5 @@
 # Distributed-Cannny-Edge-Detector
-As per http://ieeexplore.ieee.org/document/6774938/__
+As per http://ieeexplore.ieee.org/document/6774938/  
 Download all files into same directory along with the test image, and run dist_canny() with full name of the image. For eg. dist_canny('lena.png')  
 ## 1. The original image
 ![Alt text](https://github.com/ArnavVarma/Distributed-Cannny-Edge-Detector/blob/master/Screenshots/lena.png)
