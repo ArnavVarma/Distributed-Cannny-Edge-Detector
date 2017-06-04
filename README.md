@@ -12,4 +12,6 @@ Download all files into same directory along with the test image, and run dist_c
 ## 5. After hysteresis tracking
 ![Alt text](https://github.com/ArnavVarma/Distributed-Cannny-Edge-Detector/blob/master/Screenshots/hyth.png)
 ## 6. Final result
-![Alt text](https://github.com/ArnavVarma/Distributed-Cannny-Edge-Detector/blob/master/Screenshots/lena.png)
+![Alt text](https://github.com/ArnavVarma/Distributed-Cannny-Edge-Detector/blob/master/Screenshots/final.png)
+  
+Unfortunately, getting good results for an image requires manipulation of free parameters such as threshold for hysteresis tracking. I've used values recommended in the original paper.
